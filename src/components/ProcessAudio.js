@@ -41,7 +41,6 @@ const ProcessAudio = () => {
       const output = model.execute({ input_audio_samples: input });
       const uncertainties = output[0].dataSync();
       const pitches = output[1].dataSync();
-      console.log(audioContext.current.sampleRate);
       for (let i = 0; i < pitches.length; ++i) {
         let confidence = 1.0 - uncertainties[i];
         if (confidence < CONF_THRESHOLD) {
@@ -74,15 +73,20 @@ const ProcessAudio = () => {
       <Card>
         <Card.Header>
           {pitch !== 0 &&
-            (pitch > 70.0 && pitch < 165.0 ? (
+            (pitch >= 70.0 && pitch <= 165.0 ? (
               <span style={{ justifyContent: "space-between" }}>
                 <i className="fas fa-male"></i>
                 <p style={{ float: "right" }}>male: {pitch}</p>
               </span>
-            ) : (
+            ) : pitch > 165.0 && pitch <= 350 ? (
               <span style={{ justifyContent: "space-between" }}>
                 <i className="fas fa-female"></i>
                 <p style={{ float: "right" }}>female: {pitch}</p>
+              </span>
+            ) : (
+              <span style={{ justifyContent: "space-between" }}>
+                <i className="fas fa-question-circle"></i>
+                <p style={{ float: "right" }}>Noise?: {pitch}</p>
               </span>
             ))}
         </Card.Header>
