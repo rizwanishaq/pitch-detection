@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54b7e35a6b439ceb789cc0a692d71e58",
+    "revision": "9f4a0f807854084ae9ce8d82aca8f1d2",
     "url": "/pitch-detection/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pitch-detection/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "679b773a2162d26b292e",
+    "revision": "d9d1da07c83d15d78eb5",
     "url": "/pitch-detection/static/css/main.d498bfb3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pitch-detection/static/js/2.82301352.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "679b773a2162d26b292e",
-    "url": "/pitch-detection/static/js/main.fa6e15aa.chunk.js"
+    "revision": "d9d1da07c83d15d78eb5",
+    "url": "/pitch-detection/static/js/main.4bd45747.chunk.js"
   },
   {
     "revision": "774dcf428ddba468adff",
