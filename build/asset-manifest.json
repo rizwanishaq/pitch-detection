@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/event-detection-tensorflow/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/event-detection-tensorflow/static/js/main.94abe0ed.chunk.js",
+    "main.js.map": "/event-detection-tensorflow/static/js/main.94abe0ed.chunk.js.map",
+    "runtime-main.js": "/event-detection-tensorflow/static/js/runtime-main.72c86c8a.js",
+    "runtime-main.js.map": "/event-detection-tensorflow/static/js/runtime-main.72c86c8a.js.map",
+    "static/css/2.2a86faee.chunk.css": "/event-detection-tensorflow/static/css/2.2a86faee.chunk.css",
+    "static/js/2.d42713cb.chunk.js": "/event-detection-tensorflow/static/js/2.d42713cb.chunk.js",
+    "static/js/2.d42713cb.chunk.js.map": "/event-detection-tensorflow/static/js/2.d42713cb.chunk.js.map",
+    "index.html": "/event-detection-tensorflow/index.html",
+    "precache-manifest.0539bf741741a96fbf4fe81605fc188b.js": "/event-detection-tensorflow/precache-manifest.0539bf741741a96fbf4fe81605fc188b.js",
+    "service-worker.js": "/event-detection-tensorflow/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/event-detection-tensorflow/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/event-detection-tensorflow/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.d42713cb.chunk.js.LICENSE.txt": "/event-detection-tensorflow/static/js/2.d42713cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72c86c8a.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.d42713cb.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.94abe0ed.chunk.js"
+  ]
+}
