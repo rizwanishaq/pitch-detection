@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pitch-detection/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/pitch-detection/static/js/main.fa6e15aa.chunk.js",
+    "main.js.map": "/pitch-detection/static/js/main.fa6e15aa.chunk.js.map",
+    "runtime-main.js": "/pitch-detection/static/js/runtime-main.80dc9243.js",
+    "runtime-main.js.map": "/pitch-detection/static/js/runtime-main.80dc9243.js.map",
+    "static/css/2.2a86faee.chunk.css": "/pitch-detection/static/css/2.2a86faee.chunk.css",
+    "static/js/2.82301352.chunk.js": "/pitch-detection/static/js/2.82301352.chunk.js",
+    "static/js/2.82301352.chunk.js.map": "/pitch-detection/static/js/2.82301352.chunk.js.map",
+    "index.html": "/pitch-detection/index.html",
+    "precache-manifest.61c03c9c3d385dde516f436aed5a0dcd.js": "/pitch-detection/precache-manifest.61c03c9c3d385dde516f436aed5a0dcd.js",
+    "service-worker.js": "/pitch-detection/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/pitch-detection/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/pitch-detection/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.82301352.chunk.js.LICENSE.txt": "/pitch-detection/static/js/2.82301352.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80dc9243.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.82301352.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.fa6e15aa.chunk.js"
+  ]
+}
